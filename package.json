@@ -18,11 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WebDevSimplified/express-crash-course.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/WebDevSimplified/express-crash-course/issues"
-  },
-  "homepage": "https://github.com/WebDevSimplified/express-crash-course#readme",
+    "url": ""
+  "homepage": "",
   "description": ""
 }
